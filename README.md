@@ -1,6 +1,6 @@
-**Hi, I am Shola.**
+<h1>Hi, I am Shola. </h1>
 
-I am a Software Engineering Student and Aspiring Software Developer.
+<p>I am a Software Engineering Student and Aspiring Software Developer.</p>
 
 <!--
 **crux737/crux737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
