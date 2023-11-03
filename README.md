@@ -1,4 +1,6 @@
-### Hi there 👋
+**Hi, I am Shola.**
+
+I am a Software Engineering Student and Aspiring Software Developer.
 
 <!--
 **crux737/crux737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
