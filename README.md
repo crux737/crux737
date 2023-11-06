@@ -1,4 +1,4 @@
-<h1>Hi, I am Gboyega, you can call me Shola. </h1>
+<h1>Hi, I am Gboyega, call me Shola. </h1>
 
 <p>I am a Software Engineering Student and Aspiring Software Developer.</p>
 
